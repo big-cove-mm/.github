@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./images/bigcove-logo.png" alt="Big Cove Technology Logo" width="150" />
-  <img src="./images/metromarine-logo.png" alt="Metro Marine Lighting Logo" width="150" />
+  <img src="../images/big-cove-logo.png" alt="Big Cove Technology Logo" width="150" />
+  <img src="../images/mm-logo-w-background.png" alt="Metro Marine Lighting Logo" width="150" />
 </p>
 
 # Big Cove Technology & Metro Marine Lighting
@@ -9,8 +9,8 @@ Welcome to the official collaboration organization for Big Cove Technology and M
 
 ## About
 
-- **Big Cove Technology** ([bigcove.io](https://bigcove.io)) specializes in product design, embedded systems, IoT solutions, and cloud applications. :contentReference[oaicite:0]{index=0}  
-- **Metro Marine Lighting** ([metromarinelighting.com](https://metromarinelighting.com)) delivers cutting-edge underwater lighting with patented UVC technology to prevent biofouling and condensation. :contentReference[oaicite:1]{index=1}
+- **Big Cove Technology** ([bigcove.io](https://bigcove.io)) specializes in product design, embedded systems, IoT solutions, and cloud applications. 
+- **Metro Marine Lighting** ([metromarinelighting.com](https://metromarinelighting.com)) delivers cutting-edge underwater lighting with patented UVC technology to prevent biofouling and condensation. 
 
 ## Repositories
 

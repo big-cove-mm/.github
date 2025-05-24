@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/big-cove-logo.png" alt="Big Cove Technology Logo" width="150" />
+  <img src="../images/big-cove-logo.png" alt="Big Cove Technology Logo" width="250" />
   <img src="../images/mm-logo-w-background.png" alt="Metro Marine Lighting Logo" width="150" />
 </p>
 
